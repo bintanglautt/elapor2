@@ -1,0 +1,11 @@
+body {
+  background-color: #edfff4;
+}
+
+.bg-main {
+  background-color: #9dffc4;
+}
+
+.bg-footer {
+  background-color: rgba(0, 0, 0, 0.05);
+}
