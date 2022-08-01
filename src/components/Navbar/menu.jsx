@@ -163,7 +163,7 @@ const Menu = () => {
                       data-rr-ui-dropdown-item=""
                       className="dropdown-item"
                     >
-                      List Barang Hilang
+                      List Barang Hilang/Penemuan Barang
                     </Link>
                   )}
                 </NavDropdown>
