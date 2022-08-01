@@ -130,7 +130,7 @@ const Flaporan = ({ title, kategori, id }) => {
           />
         </div>
         <div className="form-group my-3">
-          <label for="bukti">Bukti Penemuan</label>
+          <label for="bukti">Bukti Gambar</label>
           <input
             type="file"
             className="form-control"
