@@ -22,7 +22,7 @@ const App = () => {
             path="/flaporanbarang"
             element={
               <FormLaporanBarang
-                title={"Form Pelaporan Barang Hilang"}
+                title={"Form Pelaporan Barang Hilang/Penemuan Barang"}
                 kategori={"barang hilang"}
               />
             }
