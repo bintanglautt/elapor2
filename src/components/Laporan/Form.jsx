@@ -134,7 +134,7 @@ const Flaporan = ({ title, kategori, id }) => {
           <input
             type="file"
             className="form-control"
-            placeholder="Bukti Penemuan"
+            placeholder="Bukti Gambar"
             onChange={(e) => setFile(e.target.files[0])}
           />
         </div>
