@@ -154,7 +154,7 @@ const Menu = () => {
                       data-rr-ui-dropdown-item=""
                       className="dropdown-item"
                     >
-                      Form Barang Hilang
+                      Form Barang Hilang/Penemuan Barang
                     </Link>
                   )}
                   {liatBarangHilang() && (
