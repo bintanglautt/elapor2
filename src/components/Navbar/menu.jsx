@@ -147,7 +147,7 @@ const Menu = () => {
                 </NavDropdown>
               )}
               {(buatBarangHilang() || liatBarangHilang()) && (
-                <NavDropdown title="Laporan Barang Hilang" id="lbarang">
+                <NavDropdown title="Laporan Barang Hilang/Penemuan Barang" id="lbarang">
                   {buatBarangHilang() && (
                     <Link
                       to={"/flaporanbarang"}
